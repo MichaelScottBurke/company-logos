@@ -1,11 +1,11 @@
 # Public Company Logos for Prototyping
 
-This repository contains a collection of public company logos in SVG format. These logos are intended to be used solely for testing and prototyping purposes in design projects.
+This repository contains a collection of public company logos in SVG, PNG, JPG and WEBP formats. These logos are intended soley for testing and prototyping purposes in design projects.
 
 ## Contents
 
-- **SVG Logos**: A collection of SVG files representing various public company logos.
-- **HTML Page**: An HTML file that allows you to view all the logos in a simple gallery format.
+- **SVG, PNG, JPG and WEBP Logos**: A collection of logo image files representing various public companies.
+- **HTML Page**: An HTML file that previews all the logos in a simple gallery format.
 
 ## Usage
 
@@ -22,7 +22,7 @@ You are free to use these logos in your prototypes and design mockups. To use a 
 
 - The logos included in this repository are trademarks or registered trademarks of their respective companies. They are provided here for **testing and prototyping** purposes only.
 - **Use at Your Own Risk**: By using this repository, you acknowledge that these logos are used for non-commercial, personal, or internal purposes only. The owner of this repository is not responsible for any misuse of the logos.
-- If you require logos for commercial purposes, please obtain the appropriate permissions or licenses from the trademark owners.
+- If you require logos for commercial purposes, you should obtain the appropriate permissions or licenses from the trademark owners.
 
 ## Contribution
 
@@ -34,4 +34,4 @@ This repository does not include any software or code that falls under a traditi
 
 ---
 
-*Please remember to respect the intellectual property rights of the companies represented by these logos.*
+_Please remember to respect the intellectual property rights of the companies represented by these logos._
