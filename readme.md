@@ -18,6 +18,10 @@ You are free to use these logos in your prototypes and design mockups. To use a 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your web browser to view all the logos in a gallery format.
 
+## Demo
+
+![preview of company logos](https://raw.githubusercontent.com/MichaelScottBurke/company-logos/main/src/img/company-logos-preview.png)
+
 ## Disclaimer
 
 - The logos included in this repository are trademarks or registered trademarks of their respective companies. They are provided here for **testing and prototyping** purposes only.
