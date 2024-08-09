@@ -1,0 +1,62 @@
+[
+  {
+    "id": "adobe",
+    "name": "Adobe"
+  },
+  {
+    "id": "aetna",
+    "name": "Aetna"
+  },
+  {
+    "id": "blue-cross-blue-shield",
+    "name": "Blue Cross Blue Shield"
+  },
+  {
+    "id": "chase",
+    "name": "Chase"
+  },
+  {
+    "id": "citibank",
+    "name": "Citibank"
+  },
+  {
+    "id": "concur",
+    "name": "Concur"
+  },
+  {
+    "id": "delta-dental",
+    "name": "Delta Dental"
+  },
+  {
+    "id": "github",
+    "name": "GitHub"
+  },
+  {
+    "id": "metlife",
+    "name": "MetLife"
+  },
+  {
+    "id": "payflex",
+    "name": "PayFlex"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce"
+  },
+  {
+    "id": "turbotax",
+    "name": "TurboTax"
+  },
+  {
+    "id": "vsp-vision",
+    "name": "VSP Vision"
+  },
+  {
+    "id": "unum",
+    "name": "Unum"
+  },
+  {
+    "id": "wells-fargo",
+    "name": "Wells Fargo"
+  }
+]
